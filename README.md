@@ -96,6 +96,8 @@ Steps:
 ## 📂 Data Requirements
 Required files:
 
+data install link : https://drive.google.com/file/d/1pdeyObIWA_qY4UfXxLxATVgnR3hghyO1/view?usp=sharing
+
 1.  **Listening History:**
     *   `data/train_triplets.txt`
 2.  **Song Metadata/Analysis Data:**
